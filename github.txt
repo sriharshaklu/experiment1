@@ -1,0 +1,7 @@
+this is my first lab experiment
+deploy files via git
+WE HAVE BUILD TEST AND DEPLOY FILE
+
+devops is not a tool or technology
+devops is culture to establish collaboration with development team and operational teams
+to provide high quality softwares
